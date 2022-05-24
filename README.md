@@ -69,7 +69,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nerumarthur&repo=nerumarthur&theme=tokyonight">
+      src="[https://github-readme-stats.vercel.app/api/pin/?username=nerumarthur&repo=nerumarthur&theme=tokyonight](https://media.glassdoor.com/sqll/2482863/liderança-serviços-squarelogo-1551748474624.png)">
     </img>
   </a>
 </p>
