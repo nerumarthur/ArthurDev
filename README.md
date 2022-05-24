@@ -3,6 +3,9 @@
    <a href="https://blogs.embarcadero.com/pt/comunidade/">
       <img src="https://dtffvb2501i0o.cloudfront.net/images/logos/made-with-delphi-logo-1024.png" alt="delphi" width="40" height="40"/>
    </a>
+  <a href="https://forum.scriptbrasil.com.br/forum/22-java/">
+      <img src="https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Ömer-5b6766ab2d98b8.1809687115335031471868.jpg" alt="delphi" width="40" height="40"/>
+   </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
