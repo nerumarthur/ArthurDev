@@ -32,17 +32,17 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é [seu nome]</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Arthur Steinbach</h1></img>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/nerumarthur">
     <img
       align="center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/nerumarthur">
     <img
       align="center"
       height="150em"
@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/nerumarthur">
     <img
       align="center"
       src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
@@ -65,7 +65,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
+  <a href="https://github.com/nerumarthur/ArthurDev">
     <img
       align="center"
       height="120em"
